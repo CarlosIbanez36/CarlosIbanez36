@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Carlos 👋
 
-<!--
-**CarlosIbanez36/CarlosIbanez36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer focused on building modern web applications using **React**, **TypeScript**, and **JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 **Currently working on:** React applications and custom UI setups.
+- 📚 **Learning:** JavaScript algorithms, React, and software logic.
+- 🎯 **Goals:** Building clean, efficient, and well-structured projects.
+- ⚙️ **Tools & Workflow:** VS Code, Git, GitHub, Node.js.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Vite
+- **Tools:** Git, GitHub, VS Code, Node.js
+
+---
+
+### 📫 Connect with Me
+- **GitHub:** [CarlosIbanez36](https://github.com/CarlosIbanez36)
